@@ -17,4 +17,4 @@
 
 ### Troubleshooting problems  
 1. Make sure your Java path is set up in your machine.
-1. Make sure that you have included json-simple-1.1.1.jar file in your project.
+1. Make sure that you have included json-simple-1.1.1.jar file in your project. Follow this [link](https://stackoverflow.com/questions/43813670/how-can-i-solve-org-json-simple-jsonobject-cannot-be-resolved?rq=1).
