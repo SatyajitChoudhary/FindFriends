@@ -29,7 +29,7 @@ public class FindFriends{
   //Driver function to call findFriends() on friends.json file
   public static void main(String args[])
   {
-      FindFriends.findFriends("friends.json");
+      FindFriends.findFriends("../../friends.json");
   }
 
 }
